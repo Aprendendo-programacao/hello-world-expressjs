@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-expressjs",
+  "version": "1.0.0",
+  "description": "Um simples exemplo de uma aplicação emm JavaScript com Express.js",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "ImGabreuw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
